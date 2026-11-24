@@ -1,3 +1,4 @@
+// Status Report Comedy Sprint: write one funny status-report line to entry.txt.
 import { mkdirSync, writeFileSync } from "node:fs";
 const line = "Weekly status: everything is fine, according to the monitoring system that has been down since Monday, so this report is a guess with excellent formatting.";
 const limit = 200;
